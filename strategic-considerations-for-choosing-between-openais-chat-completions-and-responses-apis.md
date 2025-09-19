@@ -68,7 +68,9 @@ OpenAI が Chat Completions を完全にオフにすれば、API base の変更�
 - AI 機能が Chat Completions のもので足りて、messages をいじるかもしれず、stateless でやりたい → Chat Completions
 - それらに該当しなかったり、派生開発が長く続きそうだったり（新しいモデルが出たら使いたい）、コストを最適化したかったり → Responses API
 
-https://platform.openai.com/docs/api-reference/responses
-https://platform.openai.com/docs/api-reference/conversations
-https://platform.openai.com/docs/api-reference/chat
-https://platform.openai.com/docs/guides/migrate-to-responses
+## 参考ページ
+
+- https://platform.openai.com/docs/api-reference/responses
+- https://platform.openai.com/docs/api-reference/conversations
+- https://platform.openai.com/docs/api-reference/chat
+- https://platform.openai.com/docs/guides/migrate-to-responses
